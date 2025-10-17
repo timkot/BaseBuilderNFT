@@ -1,4 +1,4 @@
-# Base NFT App
+# Base Builders NFT App
 
 A Next.js application that demonstrates Base Account Sub Accounts integration with NFT minting functionality. Users can generate unique pictures with today's date, time, and random glowing colors, then mint them as NFTs on Base Sepolia.
 
@@ -133,3 +133,4 @@ Create a `.env.local` file with:
 - [Base Account Documentation](https://docs.base.org/base-account)
 - [Base Sepolia Testnet](https://docs.base.org/base-sepolia)
 - [Next.js Documentation](https://nextjs.org/docs)
+
